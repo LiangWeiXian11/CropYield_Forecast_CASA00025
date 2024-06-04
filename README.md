@@ -6,4 +6,5 @@ The application was built using the Random Forest approach for crop yield modell
 
 
 The above is only a brief description of the application, more details are available: https://liangweixian11.github.io/CropYield_Forecast_Proj
+
 Using CropInvest: https://songzimeng.users.earthengine.app/view/north-dakota-crop-yield
