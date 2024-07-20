@@ -33,6 +33,20 @@ The application was built using the Random Forest approach for crop yield modell
         -	URL: https://www.omdena.com/blog/yield-prediction
 
 ### Requirements organization and prioritization
+-	Function classification : basic functions, advanced functions
+-	Prioritization (using MoSCoW):
+    -	Must-have: Crop visualization , yield query , value estimation
+    -	Should-have : User-defined crop prices , yield statistics at the administrative district scale
+    -	Could-have : Determine the statistical area according to the crop yield statistical chart of the administrative area and the shapefile uploaded by the user,
+    -	Won't-have : Functions with low demand , high cost , or that do not conform to the objective situation (such as yield forecasts for the next five years, crop yield trend charts by year) are not considered for the time being.
+
+### Requirements verification and implementation :
+-	Requirements verification :
+    -	Discuss the technical feasibility and implementation difficulty of the requirements with team members
+    -	Verify the availability of key requirements through communication with instructors and classmates
+-	Inter-departmental communication :
+    -	Regularly communicate requirements with instructors and data teams to ensure consistent understanding
+    -	Organize weekly team meetings to confirm the priority and implementation plan of functions
 
 
 
