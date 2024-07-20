@@ -49,6 +49,7 @@ The application was built using the Random Forest approach for crop yield modell
     -	Organize weekly team meetings to confirm the priority and implementation plan of functions
 
 
+# Appendix
 
 The above is only a brief description of the application, more structured and detailed content is available: https://liangweixian11.github.io/CropYield_Forecast_Proj
 
