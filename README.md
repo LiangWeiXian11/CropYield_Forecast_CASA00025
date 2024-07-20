@@ -23,14 +23,14 @@ The application was built using the Random Forest approach for crop yield modell
     - Insurance companies hope to know the expected future returns of the target farmland in advance so as to provide loans
     - The government wants online visualization capabilities to monitor the total yield of target crops in its jurisdiction on a large scale
 
-•	Competitive product analysis :
-o	Analysis object : Crop yield prediction in Senegal, Africa 
-o	Analysis dimensions : function list, user experience
-o	Analysis results :
-	This is an application using open-source satellite images to identify the crops and estimate the yields for any given area
-	Competitors have the ability for users to draw areas of interest
-	Long response time for production forecast
-	URL: https://www.omdena.com/blog/yield-prediction
+-	Competitive product analysis :
+    -	Analysis object : Crop yield prediction in Senegal, Africa 
+    -	Analysis dimensions : function list, user experience
+    -	Analysis results :
+        -	This is an application using open-source satellite images to identify the crops and estimate the yields for any given area
+        -	Competitors have the ability for users to draw areas of interest
+        -	Long response time for production forecast
+        -	URL: https://www.omdena.com/blog/yield-prediction
 
 ### Requirements organization and prioritization
 
@@ -39,5 +39,24 @@ o	Analysis results :
 The above is only a brief description of the application, more structured and detailed content is available: https://liangweixian11.github.io/CropYield_Forecast_Proj
 
 Using CropInvest: https://ee-liangweixian2001.projects.earthengine.app/view/cropyieldforecast
+
+<!-- 
+这是一个多行注释
+
+
+- 一级项目一
+  - 二级项目一
+    - 三级项目一
+    - 三级项目二
+  - 二级项目二
+- 一级项目二
+  - 二级项目一
+    - 三级项目一
+    - 三级项目二
+  - 二级项目二
+  
+-->
+
+
 
 
