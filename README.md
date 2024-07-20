@@ -7,17 +7,22 @@ The application was built using the Random Forest approach for crop yield modell
 ## Demand Analysis
 ### Background of the project :
 •	Project Name : Crop Yield Estimation App
+
 •	Target users : Farmers, insurance companies, governments
+
 •	Project goal : To provide a user-friendly yield visualization interface and yield estimation function for target crop production areas
+
 ### Requirements Collection :
 •	User interviews : None
+
 •	Literature and information review:
-o	Materials: Internet-related interviews, relevant academic articles
-o	Topic: User's attention to crop yield and quick query
-o	result:
-	Farmers want to know in advance the expected yield of all their farmland
-	Insurance companies hope to know the expected future returns of the target farmland in advance so as to provide loans
-	The government wants online visualization capabilities to monitor the total yield of target crops in its jurisdiction on a large scale
+1. Materials: Internet-related interviews, relevant academic articles
+2. Topic: User's attention to crop yield and quick query
+3. Result:
+    - Farmers want to know in advance the expected yield of all their farmland
+    - Insurance companies hope to know the expected future returns of the target farmland in advance so as to provide loans
+    - The government wants online visualization capabilities to monitor the total yield of target crops in its jurisdiction on a large scale
+
 •	Competitive product analysis :
 o	Analysis object : Crop yield prediction in Senegal, Africa 
 o	Analysis dimensions : function list, user experience
